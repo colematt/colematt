@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨🏻‍💻 I’m currently working at the [Binghamton Security Lab](https://github.com/bingseclab) as a PhD candidate in Computer Science.
-- 👨🏻‍🏫 I teach [CS 580U: Programming Systems and Tools](https://github.com/bucs580u) at [Binghamton University](https://binghamton.edu/CS). I've taught [CS 458/558: Introduction to Computer Security](https://github.com/bucs558], CS 480/580T: Software Security, and [CS 220: Computer Architecture from a Systems Perspective](https://github.com/bucs220).
+- 👨🏻‍🏫 I teach [CS 580U: Programming Systems and Tools](https://github.com/bucs580u) at [Binghamton University](https://binghamton.edu/CS). I've taught [CS 458/558: Introduction to Computer Security](https://github.com/bucs558), CS 480/580T: Software Security, and [CS 220: Computer Architecture from a Systems Perspective](https://github.com/bucs220).
 - 🙋‍♂️🙋‍♀️ Ask me about systems programming, compiler design, and reverse engineering.
 - 📚 [Read my publications](https://scholar.google.com/citations?user=GfQ-ozgAAAAJ&hl=en) (_but not while operating heavy machinery!_)
 - 💬 My pronouns are he/him (en.US) and il/lui (fr.CA)
