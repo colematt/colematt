@@ -5,7 +5,7 @@
 - 🙋‍♂️🙋‍♀️ Ask me about systems programming, compiler design, and reverse engineering.
 - 📚 [Read my publications](https://scholar.google.com/citations?user=GfQ-ozgAAAAJ&hl=en) (_but not while operating heavy machinery!_)
 - 💬 My pronouns are he/him (en.US) and il/lui (fr.CA)
-- 7️⃣ [If my life was a game of _Jeopardy!_ my seven dream categories would be:](https://www.wired.com/1994/01/microserfs/) Alpinism, Coffee Houses of Seattle, Obscure Compiler Errors, Bicycle Commuting, Good Dogs, Grunge Music, and Anagrams
+- 7️⃣ [If my life was a game of _Jeopardy!_ my seven dream categories would be:](https://www.wired.com/1994/01/microserfs/) Alpinism, Coffee Houses of Seattle, Obscure Compiler Errors, Bicycle Commuting, Good Dogs, Grunge Music, and Nautical Knots
 
 <!--
 **colematt/colematt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
