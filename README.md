@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m currently working at the [Binghamton Security Lab](https://github.com/bingseclab) as a PhD candidate in Computer Science.
-- 👨🏻‍🏫 I taught [CS 580U: Programming Systems and Tools](https://github.com/bucs580u), [CS 458/558: Introduction to Computer Security](https://github.com/bucs558), CS 480/580T: Software Security, and [CS 220: Computer Architecture from a Systems Perspective](https://github.com/bucs220) at [Binghamton University](https://binghamton.edu/CS).
+- 👨🏻‍💻 I’m currently working at the [Johns Hopkins University Applied Physics Laboratory](https://github.com/jhuapl) as a cybersecurity researcher.
 - 🙋‍♂️🙋‍♀️ Ask me about systems programming, compiler design, and reverse engineering.
-- 📚 [Read my publications](https://scholar.google.com/citations?user=GfQ-ozgAAAAJ) (_but not while operating heavy machinery!_)
 - 💬 My pronouns are he/him (en.US) and il/lui (fr.CA)
+- 👨🏻‍🏫 I previously taught [CS 580U: Programming Systems and Tools](https://github.com/bucs580u), [CS 458/558: Introduction to Computer Security](https://github.com/bucs558), CS 480/580T: Software Security, and [CS 220: Computer Architecture from a Systems Perspective](https://github.com/bucs220) at [Binghamton University](https://binghamton.edu/CS).
+- 📚 [Read my publications](https://scholar.google.com/citations?user=GfQ-ozgAAAAJ) (_but not while operating heavy machinery!_)
 - 7️⃣ [If my life was a game of _Jeopardy!_ my seven dream categories would be:](https://www.wired.com/1994/01/microserfs/) Alpinism, Coffee Houses of Seattle, Obscure Compiler Errors, Bicycle Commuting, Good Dogs, Grunge Music, and Nautical Knots
 
 <!--
